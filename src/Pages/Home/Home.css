@@ -1,0 +1,23 @@
+.banner-btn:hover .icon{
+    margin-left: 12px;
+}
+.banner-btn{
+    transition: all .9s ease-in-out;
+}
+.banner::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: #121212;
+    opacity: .4;
+    z-index: 1;
+}
+.carding:hover .img{
+    transform:scale(1.1);
+}
+.img{
+    transition: all .3s ease-in-out;
+}

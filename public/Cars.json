@@ -1,0 +1,843 @@
+[
+  {
+    "name": "Rolls-Royce Phantom",
+    "price": "$455,000",
+    "features": [
+      "Luxury Interior",
+      "Starlight Headliner",
+      "Adaptive Cruise Control",
+      "Night Vision"
+    ],
+    "available": 5,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJB1RkBYiBxYg3B5e_9o7nuR8_88yEvpGxw&s",
+    "review": "The Rolls-Royce Phantom sets the standard for ultimate luxury. The serene ride, plush interior, and custom options make it a pinnacle of automotive engineering.",
+    "colors": [
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Imperial Gold",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Ghost",
+    "price": "$315,000",
+    "features": [
+      "Panoramic Sunroof",
+      "Self-leveling Suspension",
+      "Bespoke Audio"
+    ],
+    "available": 8,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBk_GsJjP5wNM084Dgt6-UsOMopSEpO2vGWw&s",
+    "review": "The Ghost blends classic Rolls-Royce luxury with modern technology. It’s more dynamic than the Phantom but still incredibly refined and comfortable.",
+    "colors": [
+      {
+        "name": "Midnight Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Pearl White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Emerald Green",
+        "hex": "#50C878"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Wraith",
+    "price": "$343,000",
+    "features": [
+      "Satellite Assisted Transmission",
+      "Bespoke Design",
+      "Heads-Up Display"
+    ],
+    "available": 6,
+    "engine": "6.6L V12",
+    "mileage": "15 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0v6g9v7ZExzUomQ5aqcTk28ywNKvS2Eanig&s",
+    "review": "With a sleek design and immense power, the Wraith is both a grand tourer and a performance vehicle. It's the perfect car for those who enjoy luxury and speed.",
+    "colors": [
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Deep Burgundy",
+        "hex": "#800020"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Dawn",
+    "price": "$356,500",
+    "features": [
+      "Convertible Roof",
+      "Bespoke Audio",
+      "Dynamic Traction Control"
+    ],
+    "available": 4,
+    "engine": "6.6L V12",
+    "mileage": "14 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BMT7pgUSLY-lSVP1zAMtliRrEKX0DOaQKQ&s",
+    "review": "The Dawn provides open-air luxury like no other. With the roof down, it's the epitome of sophistication and leisure for the discerning driver.",
+    "colors": [
+      {
+        "name": "Imperial Red",
+        "hex": "#ED2939"
+      },
+      {
+        "name": "Sapphire Blue",
+        "hex": "#0F52BA"
+      },
+      {
+        "name": "Ivory White",
+        "hex": "#FFFFF0"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Cullinan",
+    "price": "$335,000",
+    "features": [
+      "All-Wheel Drive",
+      "Adjustable Air Suspension",
+      "Off-Road Capability"
+    ],
+    "available": 7,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3wrTgzi_r29aH-1bR-ToPfKk9PDV4UeAiw&s",
+    "review": "The Cullinan is a full-size SUV that brings unparalleled luxury to the off-road world. It combines Rolls-Royce comfort with practicality and ruggedness.",
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#1B1B1B"
+      },
+      {
+        "name": "Champagne Gold",
+        "hex": "#F7E7CE"
+      },
+      {
+        "name": "Forest Green",
+        "hex": "#228B22"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Silver Shadow",
+    "price": "$95,000",
+    "features": [
+      "Vintage Design",
+      "Luxury Leather Upholstery",
+      "Wooden Interior"
+    ],
+    "available": 3,
+    "engine": "6.2L V8",
+    "mileage": "10 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CnckCICli7pOrvu8nkspKgF2bD6Ec5AKJA&s",
+    "review": "A true classic, the Silver Shadow embodies the Rolls-Royce elegance of yesteryears. Its luxurious feel and vintage appeal make it a collector's dream.",
+    "colors": [
+      {
+        "name": "Velvet Red",
+        "hex": "#B22222"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Pearl White",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Silver Ghost",
+    "price": "$1,000,000",
+    "features": [
+      "Historical Model",
+      "Classic Vintage Design",
+      "Wood and Leather Interior"
+    ],
+    "available": 2,
+    "engine": "7.0L Inline-6",
+    "mileage": "8 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDwCoNRIF1XsMeMgfN5RWxr7k16nXherMkQ&s",
+    "review": "The Silver Ghost is a piece of automotive history, with its timeless design and engineering. It's not just a car, but a symbol of prestige and craftsmanship.",
+    "colors": [
+      {
+        "name": "Cobalt Blue",
+        "hex": "#0047AB"
+      },
+      {
+        "name": "Emerald Green",
+        "hex": "#50C878"
+      },
+      {
+        "name": "Classic Silver",
+        "hex": "#C0C0C0"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Corniche",
+    "price": "$325,000",
+    "features": [
+      "Convertible",
+      "Luxury Leather Seats",
+      "Wooden Dashboard"
+    ],
+    "available": 4,
+    "engine": "6.75L V8",
+    "mileage": "12 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRss9mGHzPIdLWnCn9jCgl12ReaBmjajVP7Q&s",
+    "review": "The Corniche is a perfect blend of style and substance, offering both classic design and modern driving comfort. A true gem for luxury enthusiasts.",
+    "colors": [
+      {
+        "name": "Ruby Red",
+        "hex": "#E0115F"
+      },
+      {
+        "name": "Gold Leaf",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Camargue",
+    "price": "$280,000",
+    "features": [
+      "Luxury Coupe",
+      "Distinctive Front Grille",
+      "Premium Leather Interior"
+    ],
+    "available": 5,
+    "engine": "6.75L V8",
+    "mileage": "11 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6g6TfbvaeV41VBs1p_1KFneU_jjMn-dVPA&s",
+    "review": "Distinctive in its styling, the Camargue offers a bold and unique take on Rolls-Royce design. It's rare and appeals to collectors who value uniqueness.",
+    "colors": [
+      {
+        "name": "Imperial Purple",
+        "hex": "#6A0DAD"
+      },
+      {
+        "name": "Sapphire Blue",
+        "hex": "#0F52BA"
+      },
+      {
+        "name": "Ivory White",
+        "hex": "#FFFFF0"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Park Ward",
+    "price": "$400,000",
+    "features": [
+      "Extended Wheelbase",
+      "Luxurious Rear Seating",
+      "High-End Audio System"
+    ],
+    "available": 6,
+    "engine": "6.75L V12",
+    "mileage": "13 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-RPPqrgK0chNilP-MU24YlW5baZjj2poYw&s",
+    "review": "The Park Ward is built for those who want the ultimate in rear-seat luxury. The spacious interior and meticulous craftsmanship make it a superb chauffeur-driven car.",
+    "colors": [
+      {
+        "name": "Royal Gold",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Midnight Blue",
+        "hex": "#191970"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Silver Seraph",
+    "price": "$250,000",
+    "features": [
+      "Classic Luxury",
+      "Soft Close Doors",
+      "Rear Privacy Glass"
+    ],
+    "available": 4,
+    "engine": "5.4L V12",
+    "mileage": "15 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10TukH1E-FgE56wJihl6YVBqPp-eb-IcTWg&s",
+    "review": "The Silver Seraph combines classic Rolls-Royce luxury with modern performance. It's a refined and timeless choice for those who love old-world charm with a modern touch.",
+    "colors": [
+      {
+        "name": "Imperial Red",
+        "hex": "#ED2939"
+      },
+      {
+        "name": "Platinum Silver",
+        "hex": "#E5E4E2"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce 20/25",
+    "price": "$500,000",
+    "features": [
+      "Vintage Design",
+      "Handcrafted Interior",
+      "Art Deco Style"
+    ],
+    "available": 2,
+    "engine": "3.7L Inline-6",
+    "mileage": "9 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkSCDuLcHX0F-cw5FZ0jM8Wg4cQpOAj2TRQ&s",
+    "review": "A beautiful representation of the Art Deco era, the 20/25 is a timeless classic with a stunning design and heritage appeal.",
+    "colors": [
+      {
+        "name": "Velvet Purple",
+        "hex": "#800080"
+      },
+      {
+        "name": "Gold Leaf",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Sweptail",
+    "price": "$13,000,000",
+    "features": [
+      "Custom Coachbuilding",
+      "Panoramic Roof",
+      "Bespoke Design"
+    ],
+    "available": 1,
+    "engine": "6.75L V12",
+    "mileage": "11 mpg",
+    "image": "https://c4.wallpaperflare.com/wallpaper/675/781/203/rolls-royce-sweptail-4k-wallpaper-preview.jpg",
+    "review": "The Sweptail is a one-of-a-kind bespoke vehicle, built for those with a true appreciation for personalized luxury and craftsmanship.",
+    "colors": [
+      {
+        "name": "Imperial Blue",
+        "hex": "#002366"
+      },
+      {
+        "name": "Gold Rush",
+        "hex": "#FFB300"
+      },
+      {
+        "name": "Crimson Velvet",
+        "hex": "#990000"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Ghost Black Badge",
+    "price": "$400,000",
+    "features": [
+      "Black Exterior Detailing",
+      "Performance Enhancements",
+      "Sporty Driving Dynamics"
+    ],
+    "available": 3,
+    "engine": "6.75L V12",
+    "mileage": "13 mpg",
+    "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635412546/autoexpress/2021/10/Rolls-Royce%20Black%20Badge%20Ghost%202021-3.jpg",
+    "review": "The Ghost Black Badge offers a darker, more dynamic edge to the classic Ghost. Perfect for those who seek luxury with a performance focus.",
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Gunmetal Grey",
+        "hex": "#2a3439"
+      },
+      {
+        "name": "Silver Shadow",
+        "hex": "#C0C0C0"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Cullinan Black Badge",
+    "price": "$425,000",
+    "features": [
+      "All-Wheel Drive",
+      "Performance Tuning",
+      "Premium Audio System"
+    ],
+    "available": 5,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxDGBmQFoBtZ_yfoXOGaCphIGrTkdJ4GoBg&s",
+    "review": "The Cullinan Black Badge takes the luxury SUV to new heights with enhanced performance and a sportier design.",
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#353839"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Graphite Grey",
+        "hex": "#474A51"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Phantom VIII",
+    "price": "$450,000",
+    "features": [
+      "Starlight Headliner",
+      "Adaptive Cruise Control",
+      "Luxury Rear Seating"
+    ],
+    "available": 8,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzpKtwKL-WWTcrdWREJUZq2HYex1pMdA0LQ&s",
+    "review": "The Phantom VIII is the epitome of Rolls-Royce’s luxury, offering superior comfort, space, and cutting-edge technology.",
+    "colors": [
+      {
+        "name": "Imperial Blue",
+        "hex": "#002366"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      },
+      {
+        "name": "Pearl White",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Cullinan Design Series",
+    "price": "$350,000",
+    "features": [
+      "Luxury SUV",
+      "Custom Design",
+      "Bespoke Interior"
+    ],
+    "available": 6,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://www.topgear.com/sites/default/files/our-cars-car/image/2024/01/1%20Rolls-Royce%20Cullinan%20review.jpg",
+    "review": "The Cullinan Design Series brings a new level of personal expression to the luxury SUV market with its bespoke features.",
+    "colors": [
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      },
+      {
+        "name": "Gold Leaf",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Midnight Black",
+        "hex": "#000000"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce 101EX",
+    "price": "$2,000,000",
+    "features": [
+      "Concept Car",
+      "Luxury Features",
+      "Convertible Roof"
+    ],
+    "available": 1,
+    "engine": "6.75L V12",
+    "mileage": "N/A",
+    "image": "https://c4.wallpaperflare.com/wallpaper/549/651/673/rolls-royce-100ex-wallpaper-preview.jpg",
+    "review": "The 101EX concept is a vision of what Rolls-Royce cars can be, merging cutting-edge technology with traditional craftsmanship.",
+    "colors": [
+      {
+        "name": "Electric Blue",
+        "hex": "#7DF9FF"
+      },
+      {
+        "name": "Silver Moon",
+        "hex": "#CED2D2"
+      },
+      {
+        "name": "Crimson Velvet",
+        "hex": "#990000"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Wraith Kryptos",
+    "price": "$350,000",
+    "features": [
+      "Limited Edition",
+      "Custom Exterior Design",
+      "Starlight Headliner"
+    ],
+    "available": 5,
+    "engine": "6.6L V12",
+    "mileage": "15 mpg",
+    "image": "https://mediapool.bmwgroup.com/cache/P9/202406/P90557772/P90557772-rolls-royce-spectre-at-the-hurlingham-club-600px.jpg",
+    "review": "The Wraith Kryptos is an enigmatic and rare offering, with hidden codes woven into its design that only the owner can decipher.",
+    "colors": [
+      {
+        "name": "Mystic Blue",
+        "hex": "#1E90FF"
+      },
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Gold Dust",
+        "hex": "#D4AF37"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Ghost Zenith",
+    "price": "$500,000",
+    "features": [
+      "Limited Edition",
+      "Luxury Interior",
+      "Bespoke Audio System"
+    ],
+    "available": 2,
+    "engine": "6.75L V12",
+    "mileage": "13 mpg",
+    "image": "https://mediapool.bmwgroup.com/cache/P9/202408/P90564794/P90564794-phantom-scintilla-600px.jpg",
+    "review": "As a limited edition, the Ghost Zenith offers unmatched exclusivity with unique design cues and superior craftsmanship.",
+    "colors": [
+      {
+        "name": "Imperial Red",
+        "hex": "#ED2939"
+      },
+      {
+        "name": "Platinum Silver",
+        "hex": "#E5E4E2"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Phantom Tempus",
+    "price": "$600,000",
+    "features": [
+      "Limited Edition",
+      "Custom Interior Design",
+      "Exclusive Features"
+    ],
+    "available": 3,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://s.yimg.com/ny/api/res/1.2/yCpwb2oM1iU3yO3rZ5anpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/robb_report_967/7920ceb8cac1e094bb6cba17aa98577b",
+    "review": "The Phantom Tempus is a rare, cosmic-inspired masterpiece, designed to celebrate time and space through its bespoke details.",
+    "colors": [
+      {
+        "name": "Celestial Blue",
+        "hex": "#3A5FCD"
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      },
+      {
+        "name": "Gold Flame",
+        "hex": "#FFB300"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Boat Tail",
+    "price": "$28,000,000",
+    "features": [
+      "Bespoke Design",
+      "Custom Interior",
+      "Convertible"
+    ],
+    "available": 1,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://media.thepeakmagazine.com.sg/public/2022/06/P90463409_lowRes_boat-tail-the-next-c_11zon-1024x683.jpg?compress=true&quality=80&w=1024&dpr=2.6",
+    "review": "The Boat Tail is a grand vision of craftsmanship, featuring a unique design that caters to the most discerning of automotive enthusiasts.",
+    "colors": [
+      {
+        "name": "Imperial Gold",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Ghost Extended",
+    "price": "$350,000",
+    "features": [
+      "Extended Wheelbase",
+      "Bespoke Audio",
+      "Custom Interior"
+    ],
+    "available": 7,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/3-8-2-commission/component-assets/inspired-specs/rolls-royce-ghost-extended-commission-inspired-specs-offgrid-aura.jpg/jcr:content/renditions/cq5dam.web.1920.webp",
+    "review": "With an extended wheelbase, the Ghost Extended provides additional space and luxury, perfect for passengers who prioritize comfort.",
+    "colors": [
+      {
+        "name": "Imperial Blue",
+        "hex": "#002366"
+      },
+      {
+        "name": "Silver Mist",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Crimson Velvet",
+        "hex": "#990000"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Hyperion",
+    "price": "$5,000,000",
+    "features": [
+      "Custom Coachbuilding",
+      "Convertible Design",
+      "Bespoke Interior"
+    ],
+    "available": 1,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://cdn.prod.www.spiegel.de/images/1930d61d-0001-0004-0000-000000280768_w520_r1.778_fpx47.77_fpy44.99.jpg",
+    "review": "The Hyperion is a rare, hand-built creation, designed to make a bold statement with its unique form and luxury features.",
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Gold Leaf",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Silver Wraith",
+    "price": "$1,200,000",
+    "features": [
+      "Vintage Design",
+      "Luxury Interior",
+      "Wood Paneling"
+    ],
+    "available": 2,
+    "engine": "4.3L Inline-6",
+    "mileage": "10 mpg",
+    "image": "https://cdn.dealeraccelerate.com/motorcar/1/1208/32442/1920x1440/1953-rolls-royce-silver-wraith",
+    "review": "The Silver Wraith is a classic Rolls-Royce that continues to enchant collectors with its timeless design and luxurious driving experience.",
+    "colors": [
+      {
+        "name": "Silver Mist",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Ghost Series II",
+    "price": "$320,000",
+    "features": [
+      "Refined Interior",
+      "Powerful V12",
+      "Bespoke Features"
+    ],
+    "available": 6,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://media.evo.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622811271/evo/2021/06/2021%20Rolls-Royce%20Ghost%20review%20-3.jpg",
+    "review": "The Ghost Series II brings a refreshed look to the original Ghost, offering more refined luxury and improved driving dynamics.",
+    "colors": [
+      {
+        "name": "Imperial Blue",
+        "hex": "#002366"
+      },
+      {
+        "name": "Royal Gold",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Phantom Drophead Coupe",
+    "price": "$533,000",
+    "features": [
+      "Convertible Design",
+      "Handcrafted Interior",
+      "V12 Engine"
+    ],
+    "available": 4,
+    "engine": "6.75L V12",
+    "mileage": "12 mpg",
+    "image": "https://www.carscoops.com/wp-content/uploads/2019/04/7a8a3c4f-rolls-royce-phantom-drophead-coupe-111.jpg",
+    "review": "The Phantom Drophead Coupe is a luxurious, open-air grand tourer with impeccable design and craftsmanship.",
+    "colors": [
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      },
+      {
+        "name": "Pearl White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Silver Cloud III",
+    "price": "$180,000",
+    "features": [
+      "Vintage Style",
+      "Luxurious Interior",
+      "Handcrafted Details"
+    ],
+    "available": 2,
+    "engine": "6.2L V8",
+    "mileage": "12 mpg",
+    "image": "https://handh.blob.core.windows.net/stock/20055932-59-medium.jpg?v=63782005356217",
+    "review": "The Silver Cloud III is a stunning example of mid-century Rolls-Royce craftsmanship, known for its elegance and luxurious features.",
+    "colors": [
+      {
+        "name": "Imperial Silver",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Cullinan Inspired by Fashion",
+    "price": "$440,000",
+    "features": [
+      "Custom Interior",
+      "Luxury SUV",
+      "Unique Styling"
+    ],
+    "available": 5,
+    "engine": "6.75L V12",
+    "mileage": "14 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9QNIh8KB4YJ9gzLJ9UT48YSX7xObLsoJWQg&s",
+    "review": "Inspired by Fashion brings a haute couture approach to the Cullinan, with bespoke materials and unique design elements.",
+    "colors": [
+      {
+        "name": "Emerald Green",
+        "hex": "#50C878"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Gold Leaf",
+        "hex": "#FFD700"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce Dawn Black Badge",
+    "price": "$400,000",
+    "features": [
+      "Convertible Design",
+      "Sportier Dynamics",
+      "Bespoke Interior"
+    ],
+    "available": 4,
+    "engine": "6.6L V12",
+    "mileage": "14 mpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcr-2hj5YaYeK4XSbnv1OED-WoDkJTP_8IrQ&s",
+    "review": "The Dawn Black Badge combines the elegance of the Dawn with a more dynamic, sportier personality, designed for those who want to stand out.",
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Crimson Red",
+        "hex": "#DC143C"
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "#7851A9"
+      }
+    ]
+  }
+]
