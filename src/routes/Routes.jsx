@@ -16,12 +16,14 @@ import Cars from "../Pages/Cars";
 import ConfirmPayment from "../Pages/payments/ConfirmPayment";
 import OrderHistory from "../Pages/OrderHistory";
 import About from "../Pages/About";
+import ErrorPage from "../ErrorPage/ErrorPage";
 
 
 const router = createBrowserRouter([
     {
         path: "/",
         element: <Roots></Roots>,
+        errorElement: <ErrorPage />,
         children: [
             {
                 path: '/',
