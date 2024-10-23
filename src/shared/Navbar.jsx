@@ -53,7 +53,7 @@ const Header = () => {
                 </div>
             </div>
             <div className="navbar-center mt-2">
-                {!isScrolled ? <Link to='/' className="flex items-center justify-center castoro text-2xl opacity-1 delay-500 scale-90 transition-transform transform"><SiRollsroyce className="text-white text-4xl" /><span className="transition-transform ml-2">Rolls Royce</span></Link> :
+                {!isScrolled ? <Link to='/' className="flex items-center justify-center castoro text-2xl opacity-1 delay-500 scale-90 transition-transform transform"><SiRollsroyce className="text-white text-4xl" /><span className="transition-transform ml-2 mt-2">Rolls Royce</span></Link> :
                     <Link to='/' className="flex items-center justify-center Castoro text-2xl"><SiRollsroyce className="text-white text-4xl opacity-1 delay-500 scale-90 transition-transform transform" /></Link>
                 }
             </div>

@@ -116,7 +116,7 @@ const SignUp = () => {
                             <p className="font-medium">Password: </p>
                             <input {...register('password', {
                                 required: true, pattern: {
-                                    value: /^.{7}$/,
+                                    value: /^.{7,}$/,
                                     message: 'Password must be 7 characters long',
                                 },
                             })} type="password" className="input mt-2 border-none focus:outline-none w-full t" placeholder="Type your name" />
