@@ -24,40 +24,30 @@ const Login = () => {
             })
         }
         else {
-            if (user) {
-                Swal.fire({
-                    title: 'Error',
-                    text: 'User already exists',
-                    icon: 'error',
-                    confirmButtonText: 'Try again'
+            googleLogin()
+                .then(result => {
+                    console.log(result.user)
+                    Swal.fire({
+                        title: 'Success',
+                        text: 'Do you want to continue',
+                        icon: 'success',
+                        confirmButtonText: 'Continue',
+                        confirmButtonColor: '#121212',
+                        background: '#111222'
+                    })
+                    return navigate(form)
                 })
-            }
-            else {
-                googleLogin()
-                    .then(result => {
-                        console.log(result.user)
-                        Swal.fire({
-                            title: 'Success',
-                            text: 'Do you want to continue',
-                            icon: 'success',
-                            confirmButtonText: 'Continue',
-                            confirmButtonColor: '#121212',
-                            background: '#111222'
-                        })
-                        return navigate(form)
+                .catch(error => {
+                    console.error(error)
+                    Swal.fire({
+                        title: 'Error!',
+                        text: 'Some error occured',
+                        icon: 'error',
+                        confirmButtonText: 'Try Again',
+                        confirmButtonColor: '#ef4444',
+                        background: '#111222'
                     })
-                    .catch(error => {
-                        console.error(error)
-                        Swal.fire({
-                            title: 'Error!',
-                            text: 'Some error occured',
-                            icon: 'error',
-                            confirmButtonText: 'Try Again',
-                            confirmButtonColor: '#ef4444',
-                            background: '#111222'
-                        })
-                    })
-            }
+                })
         }
     }
     const handleFacebook = () => {
