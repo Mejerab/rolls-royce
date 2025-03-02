@@ -1,8 +1,21 @@
-# React + Vite
+# Rolls Royce Car Dealership
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Link: https://rolls-royce-82f92.web.app
 
-Currently, two official plugins are available:
+Technologies used Frontend:
+    1. Firebase
+    2. React Hooks
+    3. React hook form
+    4. AOS
+    5. React icons
+    6. Swiper
+    7. Sweet Alert
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies used Backend:
+    1. Node js
+    2. Express js
+    3. JWT
+    4. AOS
+    5. Node mailer
+    6. Stripe
+    7. Dot env

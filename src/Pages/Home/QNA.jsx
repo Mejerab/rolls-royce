@@ -4,8 +4,8 @@ const Qna = () => {
     return (
         <div>
             <HeadingText text={'The Royal Road to Clarity'} />
-            <div className="flex lg:flex-row flex-col-reverse items-center my-7">
-                <div className="lg:w-1/2">
+            <div className="flex xl:flex-row flex-col-reverse items-center my-7">
+                <div className="xl:w-1/2">
                     <div className="collapse collapse-plus bg-base-200 lg:rounded-l-2xl">
                         <input type="radio" name="my-accordion-3" defaultChecked />
                         <div className="collapse-title text-xl font-medium">What makes a Rolls-Royce unique compared to other luxury vehicles?.</div>
@@ -42,8 +42,8 @@ const Qna = () => {
                         </div>
                     </div>
                 </div>
-                <div className="lg:w-1/2">
-                    <img className=" lg:h-[29.4rem] rounded-t-2xl lg:rounded-t-none lg:rounded-r-2xl" src="https://media.istockphoto.com/id/1415491459/photo/portrait-of-a-rolls-royce-cullinan-wide-body-suv-by-mansory.jpg?s=612x612&w=0&k=20&c=gk2qA_3lqBhtQux6f1ln9IHy05S8DohcLOX67gfdFAE=" alt="" />
+                <div className="xl:w-1/2">
+                    <img className="lg:h-[31rem] 2xl:h-[29.4rem] rounded-t-2xl lg:rounded-t-none lg:rounded-r-2xl" src="https://media.istockphoto.com/id/1415491459/photo/portrait-of-a-rolls-royce-cullinan-wide-body-suv-by-mansory.jpg?s=612x612&w=0&k=20&c=gk2qA_3lqBhtQux6f1ln9IHy05S8DohcLOX67gfdFAE=" alt="" />
                 </div>
             </div>
         </div>
